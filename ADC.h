@@ -1,8 +1,7 @@
 /*
  * ADC.h
  *
- *  Created on: ??þ/??þ/????
- *      Author: Engineer:Mohammed Hussein
+ * Author: Engineer:Mohammed Hessen
  */
 
 #ifndef ADC_H_
