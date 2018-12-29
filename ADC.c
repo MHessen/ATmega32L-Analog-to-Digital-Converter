@@ -1,8 +1,7 @@
 /*
  * ADC.c
  *
- *  Created on: ??þ/??þ/????
- *      Author: Engineer:Mohammed Hussein
+ * Author: Engineer:Mohammed Hessen
  */
 
 #include "Types.h"
